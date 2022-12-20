@@ -3,9 +3,7 @@ Wing Landmark Detection model with image segmentation and detection. Used UNet m
 
 # Sample outputs of pipeline
 
-<img width="435" alt="Screenshot 2022-12-20 at 12 12 49" src="https://user-images.githubusercontent.com/78916039/208629561-ae761233-4d44-4729-af75-fa1f2e2db0fd.png">
-
-![download (4)](https://user-images.githubusercontent.com/78916039/208629540-0e84a25d-b7dc-405e-8b7b-93cd0fd865e9.png)
+<img width="435" alt="Screenshot 2022-12-20 at 12 12 49" src="https://user-images.githubusercontent.com/78916039/208629561-ae761233-4d44-4729-af75-fa1f2e2db0fd.png">![download (4)](https://user-images.githubusercontent.com/78916039/208629540-0e84a25d-b7dc-405e-8b7b-93cd0fd865e9.png)
 
 
 
