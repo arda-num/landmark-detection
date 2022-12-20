@@ -1,7 +1,8 @@
 # Wing Landmark Detection Model
+<a href="#"><img src="https://img.shields.io/badge/PyTorch-red?logo=pytorch&style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/OpenCV-green?logo=opencv&style=for-the-badge" /></a>
 Wing Landmark Detection model with image segmentation and blob detection. Used UNet model architecture to train the model.
-<a href="#"><img src="https://img.shields.io/badge/PyTorch-v1.12.0-red?logo=pytorch&style=for-the-badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/OpenCV-v8.0.30-green?logo=opencv&style=for-the-badge" /></a>
+
 <div style="display:flex">
 <img width="400" src="https://user-images.githubusercontent.com/78916039/208629811-dc99a25b-89fd-42ed-8507-0ae0a8e90ef1.png">
 <img width="400" alt="Screenshot 2022-12-20 at 12 20 47" src="https://user-images.githubusercontent.com/78916039/208630572-53206a0e-b991-485e-b51f-9f9f0e466eba.png">
