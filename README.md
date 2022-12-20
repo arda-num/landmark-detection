@@ -1,7 +1,6 @@
 # Wing Landmark Detection Model
 Wing Landmark Detection model with image segmentation and detection. Used UNet model architecture to train the model.
 
-# Sample outputs of pipeline
 ![download (4)](https://user-images.githubusercontent.com/78916039/208629540-0e84a25d-b7dc-405e-8b7b-93cd0fd865e9.png)
 <img width="435" src="https://user-images.githubusercontent.com/78916039/208629811-dc99a25b-89fd-42ed-8507-0ae0a8e90ef1.png">
 
