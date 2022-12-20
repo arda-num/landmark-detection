@@ -1,4 +1,4 @@
-# Wing Landmark Detection Model
+# Wing Landmark Detection
 <a href="#"><img src="https://img.shields.io/badge/PyTorch-1.13.0-red?logo=pytorch&style=for-the-badge" /></a>
 <a href="#"><img src="https://img.shields.io/badge/OpenCV-4.6.0.66-green?logo=opencv&style=for-the-badge" /></a>
 
