@@ -3,6 +3,7 @@ Wing Landmark Detection model with image segmentation and detection. Used UNet m
 
 # Sample outputs of pipeline
 ![WhatsApp Image 2022-09-26 at 15 48 33 (1)](https://user-images.githubusercontent.com/78916039/201337278-633a9167-65d1-4a28-a653-a63900f7fb32.jpeg)
+![download (4)](https://user-images.githubusercontent.com/78916039/208628676-898626ee-b7a4-4b25-8051-95952ea9c662.png)
 
 # Model Architecture and Pipeline
 
